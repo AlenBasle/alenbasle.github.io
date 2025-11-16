@@ -1,0 +1,21 @@
+.Render{
+  margin: 5px;
+  border: 15px;
+  border-style: double;
+  max-width: 720px;
+  max-height: 480px;
+}
+
+.Portfolio_Text{       
+    border: 10px;
+    border-color: gold;
+    font-size: 40px;
+    font-weight: bolder;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: double;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+}
