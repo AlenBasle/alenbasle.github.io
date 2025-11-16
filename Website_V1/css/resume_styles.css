@@ -1,0 +1,33 @@
+.Resume_Text{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Resume_Text_Border{
+    width: fit-content;
+    height: fit-content;
+    border: 10px;
+    border-color: gold;
+    margin: auto;
+    border-style: double;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Resume_Name{       
+    border: 5px;
+    border-color: gold;
+    font-size: 40px;
+    font-weight: bolder;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Resume_Text_Inner{
+    margin: 10px;
+}
